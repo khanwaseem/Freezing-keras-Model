@@ -2,9 +2,9 @@
 """
     Purpose             : To convert AVC TensorFlow classifier model (.h5 file) to frozen graph (.pb format).
     Device Requirment   : Python Interpreter with Tensorflow-2.x
-    Author              : Shivam Dixit
-    Last Edited         : 15 March 2022
-    Edited By           : Shivam Dixit
+    Author              : Waseem Khan
+    Last Edited         : 6 June 2022
+    Edited By           : Waseem Khan
     File                : freezTF.py
 
 """

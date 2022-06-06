@@ -1,3 +1,14 @@
+
+"""
+    Purpose             : To do inference using freezed model in tensorflow
+    Device Requirment   : Python Interpreter with Tensorflow-2.x
+    Author              : Waseem Khan
+    Last Edited         : 6 June 2022
+    Edited By           : Waseem Khan
+    File                : infer_copy.py
+
+"""
+
 import numpy as np
 import os
 import cv2
